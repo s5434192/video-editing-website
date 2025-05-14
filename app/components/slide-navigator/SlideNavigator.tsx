@@ -23,6 +23,7 @@ export function SlideNavigator() {
   }
 
   return (
+    //ajssdaskf
     <div className="w-64 border-l bg-white p-4 overflow-y-auto">
       <div className="space-y-8 mt-6">
         {visibleSlides.map((slide, index) => (
